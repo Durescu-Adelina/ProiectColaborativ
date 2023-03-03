@@ -1,5 +1,7 @@
 package org.example;
 
 public class Pisica extends Animal {
-    public void Mananca(){}
+    public void mananca(){
+        System.out.println("MananCA");
+    }
 }
