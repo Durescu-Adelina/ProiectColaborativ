@@ -9,4 +9,8 @@ public class Main {
      y.mananca();
     }
 
+<<<<<<< Updated upstream
+=======
+    
+>>>>>>> Stashed changes
 }
